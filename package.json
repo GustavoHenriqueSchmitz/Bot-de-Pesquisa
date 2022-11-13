@@ -19,5 +19,9 @@
     "geckodriver": "^3.1.0",
     "readline-sync": "^1.4.10",
     "selenium-webdriver": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.4",
+    "@types/selenium-webdriver": "^4.1.9"
   }
 }
